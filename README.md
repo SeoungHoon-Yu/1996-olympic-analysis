@@ -1,4 +1,4 @@
-# 1996-olympic-analysis
+# Olympic_medal
 
 --- 2018.01.11 --- <br/>
 두개의 코드를 업로드했습니다. <br/>
