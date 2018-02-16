@@ -15,10 +15,8 @@ share_14 ~ share_10 + pop_14 + gdp_14 의 식으로 완성한 oly_2018을 업로
 현재 처리해야 할 두 가지는 </br>  
 1. 기후데이터를 추가해서 다시 돌리는 것. </br>
 2. 1992년부터 있었던 모든 동계 올림픽의 기록을 싹 묶어서 돌리는 것 </br>
-입니다. </br>
 </br>
 활용한 모델은 </br>
 1. Linear Regression </br>
 2. Tobit Regression (Package : AER, VGAM) </br>
 3. Random Forest (Package : RandomForest, H2o) </br>
-입니다.
