@@ -20,7 +20,7 @@ share_14 ~ share_10 + pop_14 + gdp_14 의 식으로 완성한 oly_2018을 업로
 1. Linear Regression </br>
 2. Tobit Regression (Package : AER, VGAM) </br>
 3. Random Forest (Package : RandomForest, H2o) </br>
-
+</br>
 --- 2018.04.25 ---</br>
 재개할 예정입니다.</br>
 이전에 하던 내용은 전부 old 폴더로 묶었고</br>
