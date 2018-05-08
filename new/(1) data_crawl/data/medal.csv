@@ -1,0 +1,169 @@
+,code,country,Total,rank,year
+1,GER,Germany,26,1,1992
+2,EUN,Unified Team,23,2,1992
+4,AUT,Austria,21,3,1992
+3,NOR,Norway,20,4,1992
+6,ITA,Italy,14,5,1992
+5,USA,United States,11,6,1992
+7,FRA*,France,9,7,1992
+8,FIN,Finland,7,8,1992
+9,CAN,Canada,7,9,1992
+11,JPN,Japan,7,10,1992
+10,KOR,South Korea,4,11,1992
+12,NED,Netherlands,4,12,1992
+13,SWE,Sweden,4,13,1992
+14,SUI,Switzerland,3,14,1992
+15,CHN,China,3,15,1992
+18,TCH,Czechoslovakia,3,16,1992
+16,LUX,Luxembourg,2,17,1992
+17,NZL,New Zealand,1,18,1992
+19,PRK,North Korea,1,19,1992
+20,ESP,Spain,1,20,1992
+27,NOR*,Norway,26,1,1994
+31,GER,Germany,24,2,1994
+110,RUS,Russia,23,3,1994
+41,ITA,Italy,20,4,1994
+51,USA,United States,13,5,1994
+71,CAN,Canada,13,6,1994
+81,SUI,Switzerland,9,7,1994
+91,AUT,Austria,9,8,1994
+61,KOR,South Korea,6,9,1994
+161,FIN,Finland,6,10,1994
+111,JPN,Japan,5,11,1994
+171,FRA,France,5,12,1994
+181,NED,Netherlands,4,13,1994
+101,SWE,Sweden,3,14,1994
+121,KAZ,Kazakhstan,3,15,1994
+191,CHN,China,3,16,1994
+201,SLO,Slovenia,3,17,1994
+131,UKR,Ukraine,2,18,1994
+151,BLR,Belarus,2,19,1994
+21,GBR,Great Britain,2,20,1994
+141,UZB,Uzbekistan,1,21,1994
+22,AUS,Australia,1,22,1994
+112,GER,Germany,29,1,1998
+28,NOR,Norway,25,2,1998
+32,RUS,Russia,18,3,1998
+82,AUT,Austria,17,4,1998
+42,CAN,Canada,15,5,1998
+52,USA,United States,13,6,1998
+113,FIN,Finland,12,7,1998
+62,NED,Netherlands,11,8,1998
+72,JPN*,Japan,10,9,1998
+102,ITA,Italy,10,10,1998
+132,FRA,France,8,11,1998
+162,CHN,China,8,12,1998
+122,SUI,Switzerland,7,13,1998
+92,KOR,South Korea,6,14,1998
+142,CZE,Czech Republic,3,15,1998
+172,SWE,Sweden,3,16,1998
+202,BLR,Belarus,2,17,1998
+211,KAZ,Kazakhstan,2,18,1998
+152,BUL,Bulgaria,1,19,1998
+182,DEN,Denmark,1,20,1998
+192,UKR,Ukraine,1,21,1998
+221,AUS,Australia,1,22,1998
+23,BEL,Belgium,1,23,1998
+24,GBR,Great Britain,1,24,1998
+29,GER,Germany,36,1,2002
+33,USA*,United States,34,2,2002
+114,NOR,Norway,25,3,2002
+43,CAN,Canada,17,4,2002
+103,AUT,Austria,17,5,2002
+53,RUS,Russia,13,6,2002
+73,ITA,Italy,13,7,2002
+63,FRA,France,11,8,2002
+115,SUI,Switzerland,11,9,2002
+93,NED,Netherlands,8,10,2002
+133,CHN,China,8,11,2002
+83,FIN,Finland,7,12,2002
+193,SWE,Sweden,7,13,2002
+123,CRO,Croatia,4,14,2002
+143,KOR,South Korea,4,15,2002
+163,CZE,Czech Republic,3,16,2002
+173,EST,Estonia,3,17,2002
+203,BUL,Bulgaria,3,18,2002
+153,AUS,Australia,2,19,2002
+183,GBR,Great Britain,2,20,2002
+212,JPN,Japan,2,21,2002
+222,POL,Poland,2,22,2002
+231,BLR,Belarus,1,23,2002
+241,SLO,Slovenia,1,24,2002
+116,GER,Germany,29,1,2006
+210,USA,United States,25,2,2006
+54,CAN,Canada,24,3,2006
+34,AUT,Austria,23,4,2006
+44,RUS,Russia,22,5,2006
+134,NOR,Norway,19,6,2006
+64,SWE,Sweden,14,7,2006
+84,SUI,Switzerland,14,8,2006
+74,KOR,South Korea,11,9,2006
+94,ITA*,Italy,11,10,2006
+144,CHN,China,11,11,2006
+104,FRA,France,9,12,2006
+117,NED,Netherlands,9,13,2006
+194,FIN,Finland,9,14,2006
+154,CZE,Czech Republic,4,15,2006
+124,EST,Estonia,3,16,2006
+164,CRO,Croatia,3,17,2006
+174,AUS,Australia,2,18,2006
+204,POL,Poland,2,19,2006
+25,UKR,Ukraine,2,20,2006
+184,JPN,Japan,1,21,2006
+213,BLR,Belarus,1,22,2006
+223,BUL,Bulgaria,1,23,2006
+232,GBR,Great Britain,1,24,2006
+242,SVK,Slovakia,1,25,2006
+26,LAT,Latvia,1,26,2006
+35,USA,United States,37,1,2010
+214,GER,Germany,30,2,2010
+118,CAN*,Canada,26,3,2010
+45,NOR,Norway,23,4,2010
+95,AUT,Austria,16,5,2010
+119,RUS,Russia,15,6,2010
+55,KOR,South Korea,14,7,2010
+75,CHN,China,11,8,2010
+85,SWE,Sweden,11,9,2010
+125,FRA,France,11,10,2010
+65,SUI,Switzerland,9,11,2010
+105,NED,Netherlands,8,12,2010
+145,CZE,Czech Republic,6,13,2010
+155,POL,Poland,6,14,2010
+165,ITA,Italy,5,15,2010
+205,JPN,Japan,5,16,2010
+243,FIN,Finland,5,17,2010
+135,AUS,Australia,3,18,2010
+175,BLR,Belarus,3,19,2010
+185,SVK,Slovakia,3,20,2010
+215,CRO,Croatia,3,21,2010
+224,SLO,Slovenia,3,22,2010
+233,LAT,Latvia,2,23,2010
+195,GBR,Great Britain,1,24,2010
+251,EST,Estonia,1,25,2010
+261,KAZ,Kazakhstan,1,26,2010
+120,RUS,Russia,29,1,2014
+46,USA,United States,28,2,2014
+216,NOR,Norway,26,3,2014
+36,CAN,Canada,25,4,2014
+56,NED,Netherlands,24,5,2014
+66,GER,Germany,19,6,2014
+96,AUT,Austria,17,7,2014
+106,FRA,France,15,8,2014
+146,SWE,Sweden,15,9,2014
+76,SUI,Switzerland,11,10,2014
+126,CHN,China,9,11,2014
+136,KOR,South Korea,8,12,2014
+156,CZE,Czech Republic,8,13,2014
+166,SLO,Slovenia,8,14,2014
+176,JPN,Japan,8,15,2014
+225,ITA,Italy,8,16,2014
+86,BLR,Belarus,6,17,2014
+1110,POL,Poland,6,18,2014
+186,FIN,Finland,5,19,2014
+196,GBR,Great Britain,4,20,2014
+234,LAT,Latvia,4,21,2014
+244,AUS,Australia,3,22,2014
+206,UKR,Ukraine,2,23,2014
+217,SVK,Slovakia,1,24,2014
+252,CRO,Croatia,1,25,2014
+262,KAZ,Kazakhstan,1,26,2014
