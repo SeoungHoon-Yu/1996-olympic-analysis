@@ -1,7 +1,7 @@
 pkgs <- c('dplyr','stringr','tidyr')
 sapply(pkgs, require, character.only = TRUE)
 
-wd <- 'D:/승훈/Data/Olympic analysis/my_new/(1) data_crawl/data'
+wd <- 'C:/Users/rsh15/Desktop/seunghuni/github_refact/Olympic_medal/new/(1) data_crawl/data'
 setwd(wd)
 options(stringsAsFactors = FALSE)
 

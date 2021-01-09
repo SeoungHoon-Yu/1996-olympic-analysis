@@ -41,7 +41,7 @@ WEB2[which(WEB2$Country %in% cs),6] <- cze_slo_t$pre92
 gdp_join <- read.csv('gpd_scrap.csv',stringsAsFactors = FALSE)
 
 # 이름 다른국가 수정
-# 메달 1개 이상인 국가들 중 차이니즈 타이페이, 북한, 영국, 쿠바가 gdp_join에 없음.
+# 메달 1개 이상인 국가들 중 대만, 북한, 영국, 쿠바가 gdp_join에 없음.
 
 # 없는 이름 수정하기
 # 이름 변경

@@ -19,9 +19,10 @@ share_14 ~ share_10 + pop_14 + gdp_14 의 식으로 완성한 oly_2018을 업로
 활용 모델 </br>
 1. Linear Regression </br>
 2. Tobit Regression (Package : AER, VGAM) </br>
-3. Random Forest (Package : RandomForest, H2o) </br>
-</br>
+3. Random Forest (Package : RandomForest, H2o) </br>   
+
 --- 2018.04.25 ---</br>
-재개할 예정입니다.</br>
-이전에 하던 내용은 전부 old 폴더로 묶었고</br>
-이후 진행사항은 전부 new 폴더에 업로드합니다.</br>
+프로젝트를 진행할때 코드정리가 제대로 되지 않아서 정리가 필요합니다.</br>
+이후 업데이트는 전부 new 폴더에 업로드합니다.</br>
+
+우리나라의 올림픽 메달 개수를 정확하게 예측할 수 있었습니다(17개)   

@@ -2,7 +2,7 @@ pkgs <- c('rvest','dplyr','data.table','caret','readxl',
           'stringr','xml2','tidyr','pbapply')
 sapply(pkgs, require, character.only = TRUE)
 
-setwd("D:/승훈/Data/Olympic analysis/climate_temp")
+setwd("C:/Users/rsh15/Desktop/seunghuni/github_refact/Olympic_medal/old")
 
 url <- "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/cld/"
 re_url <- read_html(url)
