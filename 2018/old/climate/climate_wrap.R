@@ -2,7 +2,7 @@ pkgs <- c('rvest','dplyr','data.table','caret','readxl',
           'stringr','xml2','tidyr','pbapply')
 sapply(pkgs, require, character.only = TRUE)
 
-setwd("C:/Users/rsh15/Desktop/seunghuni/github_refact/Olympic_medal/old")
+setwd("C:/Users/rsh15/Desktop/seunghuni/github_refact/Olympic_medal/2018/old/climate")
 
 url <- "https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_3.23/crucy.1506241137.v3.23/countries/cld/"
 re_url <- read_html(url)
@@ -25,14 +25,11 @@ country_name <- rep(country_name,each = 114)
 climate$country <- country_name
 
 # climate data wrangling.
-# 1995 temperature average.
-climate <- climate %>% filter(YEAR == 1995) %>%
-  mutate(avg_tem = rowMeans(climate[which(climate$YEAR == 1995),2:13]))
-climate <- climate[,c("YEAR","country","avg_tem")]
+climate <- climate %>% select(c('country','YEAR','DJF','MAM','JJA','SON'))
 
 # remove no use.
 remove(file_name,re_url,country_name,namees,url,url_final)
-# write.csv(climate,'add_cli.csv')
+#write.csv(climate,'climate.csv')
 
 # 1992년부터 1996년까지 기온의 평균?
 # 처리해서 평균내고 차이까지 구해봤는데,
