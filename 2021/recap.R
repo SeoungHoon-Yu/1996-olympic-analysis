@@ -106,7 +106,4 @@ gdp_pop_melt$variable <- as.integer(gdp_pop_melt$variable)
 df_final <- left_join(df,gdp_pop_melt,by=c('Country'='Country',
                                            'year'='variable'))
 
-# scaler
-scale_cols <- c('ath','Total','final_vote','gdps','pops')
-df_final[,scale_cols] <- scale(df_final[,scale_cols],scale=TRUE,center=TRUE)
-#write.csv(df_final,'C:/Users/rsh15/Desktop/seunghuni/github_refact/Olympic_medal/2021/data/df.csv')
+write.csv(df_final,'C:/Users/rsh15/Desktop/seunghuni/github_refact/Olympic_medal/2021/data/df.csv')

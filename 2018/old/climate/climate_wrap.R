@@ -25,7 +25,7 @@ country_name <- rep(country_name,each = 114)
 climate$country <- country_name
 
 # climate data wrangling.
-climate <- climate %>% select(c('country','YEAR','DJF','MAM','JJA','SON'))
+colnames(climate)
 
 # remove no use.
 remove(file_name,re_url,country_name,namees,url,url_final)
